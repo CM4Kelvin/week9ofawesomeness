@@ -1,0 +1,7 @@
+
+import turtle
+ourScreen =turtle.Screen()
+ourTurtle = turtle.Turtle()
+ourTurtle.color("red")
+ourScreen.exitonclick()
+
